@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T22:16:36Z",
+            "last_commit": "2026-08-15T17:01:28Z",
             "owner": "microsoft",
             "repo": "msquic",
-            "stars": 4758
+            "stars": 4760
           }
         },
         {
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T22:16:36Z",
+            "last_commit": "2026-08-15T17:01:28Z",
             "owner": "microsoft",
             "repo": "msquic",
-            "stars": 4758
+            "stars": 4760
           }
         },
         {
@@ -144,7 +144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:59:14.772Z",
+    "last_updated": "2026-08-16T06:00:25.713Z",
     "original_repository": "xileteam/awesome-quic",
     "original_repository_sha": "cf9a5e8653675e9c5bd3e38501c15938895c51a7",
     "enhanced_repository": "enhansome/enhansome-quic",
