@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-19T10:05:11Z",
+                "last_commit": "2026-08-19T13:09:13Z",
                 "owner": "microsoft",
                 "repo": "msquic",
-                "stars": 4761
+                "stars": 4763
               }
             },
             {
@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-19T10:05:11Z",
+                "last_commit": "2026-08-19T13:09:13Z",
                 "owner": "microsoft",
                 "repo": "msquic",
-                "stars": 4761
+                "stars": 4763
               }
             },
             {
@@ -119,7 +119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:50:10.887Z",
+    "last_updated": "2026-08-20T06:02:19.537Z",
     "original_repository": "xileteam/awesome-quic",
     "original_repository_id": 303029626,
     "original_repository_sha": "cf9a5e8653675e9c5bd3e38501c15938895c51a7",
