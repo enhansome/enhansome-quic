@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-22T17:00:32Z",
+                "last_commit": "2026-08-24T13:19:30Z",
                 "owner": "microsoft",
                 "repo": "msquic",
                 "stars": 4770
@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-22T17:00:32Z",
+                "last_commit": "2026-08-24T13:19:30Z",
                 "owner": "microsoft",
                 "repo": "msquic",
                 "stars": 4770
@@ -76,6 +76,391 @@
           "description": null,
           "node_type": "group",
           "title": "QUIC Weekly - 20210106"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Experimental QUIC codec for netty",
+              "description": "makes use of quiche",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 310640084,
+                "language": "Java",
+                "last_commit": "2026-05-08T12:12:29Z",
+                "owner": "netty",
+                "repo": "netty-incubator-codec-quic",
+                "stars": 346
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "QUIC Weekly - 20201202"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lsquic release 2.24.4",
+              "description": ", contains fixes to congestion controller and to CID lifecycle.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104516416,
+                "language": "C",
+                "last_commit": "2026-08-02T02:31:13Z",
+                "owner": "litespeedtech",
+                "repo": "lsquic",
+                "stars": 1865
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "QUIC Weekly - 20201118"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenSource quiche",
+              "description": "landed supported for QUIC & HTTP/3 unreliable datagram into . It can help support low-latency where guaranteed delivery of data is not paramount.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150891532,
+                "language": "Rust",
+                "last_commit": "2026-08-14T13:03:16Z",
+                "owner": "cloudflare",
+                "repo": "quiche",
+                "stars": 11792
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "QUIC Weekly - 20201014"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Microsoft's MsQuic",
+                  "description": "draft-27/28/29/30/31/32 client, server TLS 1.3 RFC",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 217654199,
+                    "language": "C",
+                    "last_commit": "2026-08-24T13:19:30Z",
+                    "owner": "microsoft",
+                    "repo": "msquic",
+                    "stars": 4770
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Facebook's mvfst",
+                  "description": "draft-29 library, client, server TLS 1.3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 128842710,
+                    "language": "C++",
+                    "last_commit": "2026-08-24T02:59:13Z",
+                    "owner": "facebook",
+                    "repo": "mvfst",
+                    "stars": 1657
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LiteSpeed's lsquic",
+                  "description": "Draft-32, Draft-29, Draft-28, Draft-27, Q043, Q046, and Q050. library, client, server QUIC Crypto, RFC 8446",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 104516416,
+                    "language": "C",
+                    "last_commit": "2026-08-02T02:31:13Z",
+                    "owner": "litespeedtech",
+                    "repo": "lsquic",
+                    "stars": 1865
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ngtcp2",
+                  "description": "draft-29, draft-30, draft-31, and draft-32 library, client, server TLSv1.3 (RFC 8446)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 95347622,
+                    "language": "C",
+                    "last_commit": "2026-08-24T13:45:30Z",
+                    "owner": "ngtcp2",
+                    "repo": "ngtcp2",
+                    "stars": 1507
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cloudflare's nginx-cloudflare",
+                  "description": "draft-27, draft-28, draft-29 server TLSv1.3 (RFC8446)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 150891532,
+                    "language": "Rust",
+                    "last_commit": "2026-08-14T13:03:16Z",
+                    "owner": "cloudflare",
+                    "repo": "quiche",
+                    "stars": 11792
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "picoquic",
+                  "description": "draft-32/31/30/29/28/27 library and test tools, test client, test server TLS 1.3 (using picotls)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 95480304,
+                    "language": "C",
+                    "last_commit": "2026-08-21T22:13:31Z",
+                    "owner": "private-octopus",
+                    "repo": "picoquic",
+                    "stars": 766
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Pluginized QUIC",
+                  "description": "draft-29 library, client, server TLS 1.3 (using picotls)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 193893504,
+                    "language": "C",
+                    "last_commit": "2023-10-30T14:04:34Z",
+                    "owner": "p-quic",
+                    "repo": "pquic",
+                    "stars": 135
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Fastly's quicly",
+                  "description": "draft-27 client, server TLS 1.3 (final)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 93527560,
+                    "language": "C",
+                    "last_commit": "2026-08-24T08:47:24Z",
+                    "owner": "h2o",
+                    "repo": "quicly",
+                    "stars": 663
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TQUIC",
+                  "description": "v1 library, client, server TLS 1.3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 710116025,
+                    "language": "Rust",
+                    "last_commit": "2025-12-23T08:42:16Z",
+                    "owner": "Tencent",
+                    "repo": "tquic",
+                    "stars": 1427
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C/C++"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Cloudflare's quiche",
+                  "description": "draft-27, draft-28, draft-29 library, client, server TLSv1.3 (RFC8446)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 150891532,
+                    "language": "Rust",
+                    "last_commit": "2026-08-14T13:03:16Z",
+                    "owner": "cloudflare",
+                    "repo": "quiche",
+                    "stars": 11792
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mozilla/Firefox's Neqo",
+                  "description": "draft-30 library, client, server TLS 1.3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 171342221,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T14:37:14Z",
+                    "owner": "mozilla",
+                    "repo": "neqo",
+                    "stars": 2220
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Quinn",
+                  "description": "draft-28 library, client, server TLS 1.3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 127870944,
+                    "language": "Rust",
+                    "last_commit": "2026-08-23T05:20:15Z",
+                    "owner": "quinn-rs",
+                    "repo": "quinn",
+                    "stars": 5232
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TQUIC",
+                  "description": "v1 library, client, server TLS 1.3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 710116025,
+                    "language": "Rust",
+                    "last_commit": "2025-12-23T08:42:16Z",
+                    "owner": "Tencent",
+                    "repo": "tquic",
+                    "stars": 1427
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Rust"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "quic-go",
+                  "description": "always the current draft library, client, server TLS 1.3 RFC",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55637575,
+                    "language": "Go",
+                    "last_commit": "2026-08-24T06:36:07Z",
+                    "owner": "quic-go",
+                    "repo": "quic-go",
+                    "stars": 11750
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Go"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Node.js QUIC",
+                  "description": "draft-25 client, server TLS 1.3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 166251263,
+                    "language": "JavaScript",
+                    "last_commit": "2020-05-18T22:59:29Z",
+                    "owner": "nodejs",
+                    "repo": "quic",
+                    "stars": 305
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "quico",
+                  "description": "v1 library, client, server TLS 1.3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1034205273,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-20T12:50:12Z",
+                    "owner": "colocohen",
+                    "repo": "quico",
+                    "stars": 97
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Node.js"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "aioquic",
+                  "description": "draft-29 library, client, server TLS 1.3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 169165755,
+                    "language": "Python",
+                    "last_commit": "2025-10-11T10:14:57Z",
+                    "owner": "aiortc",
+                    "repo": "aioquic",
+                    "stars": 2001
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Haskell quic",
+                  "description": "draft-29 library, client, server TLS 1.3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 165198027,
+                    "language": "Haskell",
+                    "last_commit": "2026-08-10T09:28:24Z",
+                    "owner": "kazu-yamamoto",
+                    "repo": "quic",
+                    "stars": 117
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Haskell"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Library & Frameworks"
         },
         {
           "children": [
@@ -119,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:23:16.868Z",
+    "last_updated": "2026-08-24T14:41:25.760Z",
     "original_repository": "xileteam/awesome-quic",
     "original_repository_id": 303029626,
     "original_repository_sha": "cf9a5e8653675e9c5bd3e38501c15938895c51a7",
