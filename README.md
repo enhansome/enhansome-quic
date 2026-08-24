@@ -4,17 +4,17 @@
 
 A collection of various awesome lists for videos, pentesters, libraries and frameworks.
 
-**QUIC** is the Quick UDP Internet Connections protocol, developed by Google and currently in IETF workgroups for further development. It is being considered for replacing TCP as a transport protocol for HTTP/3. We are building an Open source project for IoT & Edge Computing atop QUIC called 🦖[YoMo](https://github.com/yomorun/yomo/) ⭐ 1,920 | 🐛 0 | 🌐 Rust | 📅 2026-08-18
+**QUIC** is the Quick UDP Internet Connections protocol, developed by Google and currently in IETF workgroups for further development. It is being considered for replacing TCP as a transport protocol for HTTP/3. We are building an Open source project for IoT & Edge Computing atop QUIC called 🦖[YoMo](https://github.com/yomorun/yomo/) ⭐ 1,920 | 🐛 1 | 🌐 Rust | 📅 2026-08-24
 
 ***
 
 # QUIC Weekly
 
-🍖[discord/quic](https://discord.gg/CTH3wv9)  🦖[YoMo](https://github.com/yomorun/yomo/) ⭐ 1,920 | 🐛 0 | 🌐 Rust | 📅 2026-08-18
+🍖[discord/quic](https://discord.gg/CTH3wv9)  🦖[YoMo](https://github.com/yomorun/yomo/) ⭐ 1,920 | 🐛 1 | 🌐 Rust | 📅 2026-08-24
 
 ## QUIC Weekly - 20210414
 
-* Microsoft's [open-source implementation of the QUIC protocol](https://github.com/microsoft/msquic) ⭐ 4,768 | 🐛 331 | 🌐 C | 📅 2026-08-22 that will form the basis of HTTP/3 will be in Windows Server 2022. It's being used for [SMB over QUIC](https://techcommunity.microsoft.com/t5/itops-talk-blog/smb-over-quic-files-without-the-vpn/ba-p/1183449), which is a more secure replacement for WebDAV to deliver SMB access **without the expense and complexity of a VPN**. This uses QUIC as the transport for SMB **instead of TCP/IP** and RDMA, with a tunnel that secures SMB **even if encryption isn't enabled**. "SMB over QUIC will be available with Azure Automanage and Windows Server 2022," Kumar told TechRepublic. "It will also be supported as a client in Windows 10 and on third-party platforms like Android and others."
+* Microsoft's [open-source implementation of the QUIC protocol](https://github.com/microsoft/msquic) ⭐ 4,770 | 🐛 332 | 🌐 C | 📅 2026-08-22 that will form the basis of HTTP/3 will be in Windows Server 2022. It's being used for [SMB over QUIC](https://techcommunity.microsoft.com/t5/itops-talk-blog/smb-over-quic-files-without-the-vpn/ba-p/1183449), which is a more secure replacement for WebDAV to deliver SMB access **without the expense and complexity of a VPN**. This uses QUIC as the transport for SMB **instead of TCP/IP** and RDMA, with a tunnel that secures SMB **even if encryption isn't enabled**. "SMB over QUIC will be available with Azure Automanage and Windows Server 2022," Kumar told TechRepublic. "It will also be supported as a client in Windows 10 and on third-party platforms like Android and others."
 * [@Robin](http://twitter.com/programart) Draw digram and open source the source file: <https://github.com/rmarx/h3-protocol-stack> ⭐ 64 | 🐛 0 | 📅 2021-03-12
   ![](https://github.com/rmarx/h3-protocol-stack/blob/main/png/protocol-stack-h2-h3-extended.png?raw=true)
 * [@Daniel Stenberg](https://twitter.com/bagder) 's blog: WHERE IS HTTP/3 RIGHT NOW?, said the specifications are all done. They’re now waiting in queues to get their final edits and approvals before they will get assigned RFC numbers and get published as such – they will not change any further.
@@ -25,7 +25,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 ## QUIC Weekly - 20210106
 
-* Version 1.0 of the Microsoft implementation of the QUIC protocol [MSQUIC has been released](https://github.com/microsoft/msquic) ⭐ 4,768 | 🐛 331 | 🌐 C | 📅 2026-08-22
+* Version 1.0 of the Microsoft implementation of the QUIC protocol [MSQUIC has been released](https://github.com/microsoft/msquic) ⭐ 4,770 | 🐛 332 | 🌐 C | 📅 2026-08-22
 * [WebTransport Explainer](https://github.com/w3c/webtransport/blob/master/explainer.md) ⭐ 988 | 🐛 23 | 🌐 Bikeshed | 📅 2026-07-27
 * [WebTransport](https://w3c.github.io/webtransport/) This specification uses pluggable protocols, with QUIC \[QUIC-TRANSPORT] as one such protocol, to send data to and receive data from servers. It can be used like WebSockets but with support for multiple streams, unidirectional streams, out-of-order delivery, and reliable as well as unreliable transport.
 * World’s first DNS over QUIC resolver [launched by AdGuard](https://www.zdnet.com/article/ad-blocker-adguard-deploys-worlds-first-dns-over-quic-resolver/)
@@ -142,17 +142,17 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 | Name                                                                                                                                          | Version                                                       | Roles                                            | Handshake               |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------ | ----------------------- |
-| Microsoft's [MsQuic](https://github.com/microsoft/msquic) ⭐ 4,768 \| 🐛 331 \| 🌐 C \| 📅 2026-08-22                                          | draft-27/28/29/30/31/32                                       | client, server                                   | TLS 1.3 RFC             |
-| Facebook's [mvfst](https://github.com/facebookincubator/mvfst) ⭐ 1,656 \| 🐛 36 \| 🌐 C++ \| 📅 2026-08-22                                    | draft-29                                                      | library, client, server                          | TLS 1.3                 |
+| Microsoft's [MsQuic](https://github.com/microsoft/msquic) ⭐ 4,770 \| 🐛 332 \| 🌐 C \| 📅 2026-08-22                                          | draft-27/28/29/30/31/32                                       | client, server                                   | TLS 1.3 RFC             |
+| Facebook's [mvfst](https://github.com/facebookincubator/mvfst) ⭐ 1,656 \| 🐛 36 \| 🌐 C++ \| 📅 2026-08-24                                    | draft-29                                                      | library, client, server                          | TLS 1.3                 |
 | Google's [Chromium](https://www.chromium.org/quic/playing-with-quic)                                                                          | Q043, Q046, Q050, T050, T051, draft-27, draft-29              | library, client, server                          | QUIC Crypto, TLS        |
 | [ats](https://cwiki.apache.org/confluence/display/TS/QUIC) (Apache Traffic Server)                                                            | draft-29                                                      | client. server                                   | TLS 1.3                 |
 | LiteSpeed's [lsquic](https://github.com/litespeedtech/lsquic) ⭐ 1,864 \| 🐛 48 \| 🌐 C \| 📅 2026-08-02                                       | Draft-32, Draft-29, Draft-28, Draft-27, Q043, Q046, and Q050. | library, client, server                          | QUIC Crypto, RFC 8446   |
 | [ngtcp2](https://github.com/ngtcp2/ngtcp2) ⭐ 1,506 \| 🐛 22 \| 🌐 C \| 📅 2026-08-22                                                          | draft-29, draft-30, draft-31, and draft-32                    | library, client, server                          | TLSv1.3 (RFC 8446)      |
 | Cloudflare's [nginx-cloudflare](https://github.com/cloudflare/quiche/tree/master/extras/nginx) ⭐ 11,792 \| 🐛 337 \| 🌐 Rust \| 📅 2026-08-14 | draft-27, draft-28, draft-29                                  | server                                           | TLSv1.3 (RFC8446)       |
-| [picoquic](https://github.com/private-octopus/picoquic) ⭐ 765 \| 🐛 34 \| 🌐 C \| 📅 2026-08-21                                               | draft-32/31/30/29/28/27                                       | library and test tools, test client, test server | TLS 1.3 (using picotls) |
+| [picoquic](https://github.com/private-octopus/picoquic) ⭐ 766 \| 🐛 34 \| 🌐 C \| 📅 2026-08-21                                               | draft-32/31/30/29/28/27                                       | library and test tools, test client, test server | TLS 1.3 (using picotls) |
 | [Pluginized QUIC](https://github.com/p-quic/pquic) ⭐ 135 \| 🐛 23 \| 🌐 C \| 📅 2023-10-30                                                    | draft-29                                                      | library, client, server                          | TLS 1.3 (using picotls) |
 | [quant](https://github.com/NTAP/quant)                                                                                                        | draft-33, draft-34, v1                                        | library, client, server                          | TLS 1.3                 |
-| Fastly's [quicly](https://github.com/h2o/quicly) ⭐ 663 \| 🐛 105 \| 🌐 C \| 📅 2026-08-23                                                     | draft-27                                                      | client, server                                   | TLS 1.3 (final)         |
+| Fastly's [quicly](https://github.com/h2o/quicly) ⭐ 663 \| 🐛 105 \| 🌐 C \| 📅 2026-08-24                                                     | draft-27                                                      | client, server                                   | TLS 1.3 (final)         |
 | [nginx-quic](https://hg.nginx.org/nginx-quic/)                                                                                                | draft-27 .. draft-32                                          | server                                           | TLSv1.3 (RFC8446)       |
 | [TQUIC](https://github.com/Tencent/tquic) ⭐ 1,427 \| 🐛 49 \| 🌐 Rust \| 📅 2025-12-23                                                        | v1                                                            | library, client, server                          | TLS 1.3                 |
 
@@ -161,15 +161,15 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 | Name                                                                                                       | Version                      | Roles                   | Handshake         |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------- | ----------------------- | ----------------- |
 | Cloudflare's [quiche](https://github.com/cloudflare/quiche) ⭐ 11,792 \| 🐛 337 \| 🌐 Rust \| 📅 2026-08-14 | draft-27, draft-28, draft-29 | library, client, server | TLSv1.3 (RFC8446) |
-| Mozilla/Firefox's [Neqo](https://github.com/mozilla/neqo) ⭐ 2,219 \| 🐛 167 \| 🌐 Rust \| 📅 2026-08-21    | draft-30                     | library, client, server | TLS 1.3           |
-| [Quinn](https://github.com/djc/quinn) ⭐ 5,231 \| 🐛 199 \| 🌐 Rust \| 📅 2026-08-23                        | draft-28                     | library, client, server | TLS 1.3           |
+| Mozilla/Firefox's [Neqo](https://github.com/mozilla/neqo) ⭐ 2,220 \| 🐛 168 \| 🌐 Rust \| 📅 2026-08-21    | draft-30                     | library, client, server | TLS 1.3           |
+| [Quinn](https://github.com/djc/quinn) ⭐ 5,232 \| 🐛 199 \| 🌐 Rust \| 📅 2026-08-23                        | draft-28                     | library, client, server | TLS 1.3           |
 | [TQUIC](https://github.com/Tencent/tquic) ⭐ 1,427 \| 🐛 49 \| 🌐 Rust \| 📅 2025-12-23                     | v1                           | library, client, server | TLS 1.3           |
 
 ### Go
 
 | Name                                                                                              | Version                  | Roles                   | Handshake   |
 | ------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------- | ----------- |
-| [quic-go](https://github.com/lucas-clemente/quic-go) ⭐ 11,747 \| 🐛 223 \| 🌐 Go \| 📅 2026-08-23 | always the current draft | library, client, server | TLS 1.3 RFC |
+| [quic-go](https://github.com/lucas-clemente/quic-go) ⭐ 11,748 \| 🐛 224 \| 🌐 Go \| 📅 2026-08-24 | always the current draft | library, client, server | TLS 1.3 RFC |
 
 ### Node.js
 
@@ -182,7 +182,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 | Name                                                                                        | Version  | Roles                   | Handshake |
 | ------------------------------------------------------------------------------------------- | -------- | ----------------------- | --------- |
-| [aioquic](https://github.com/aiortc/aioquic) ⭐ 1,999 \| 🐛 22 \| 🌐 Python \| 📅 2025-10-11 | draft-29 | library, client, server | TLS 1.3   |
+| [aioquic](https://github.com/aiortc/aioquic) ⭐ 2,000 \| 🐛 22 \| 🌐 Python \| 📅 2025-10-11 | draft-29 | library, client, server | TLS 1.3   |
 
 ### Haskell
 
@@ -203,4 +203,4 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

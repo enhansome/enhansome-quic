@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-22T17:00:32Z",
                 "owner": "microsoft",
                 "repo": "msquic",
-                "stars": 4768
+                "stars": 4770
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-22T17:00:32Z",
                 "owner": "microsoft",
                 "repo": "msquic",
-                "stars": 4768
+                "stars": 4770
               }
             },
             {
@@ -119,7 +119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T06:00:21.532Z",
+    "last_updated": "2026-08-24T06:23:16.868Z",
     "original_repository": "xileteam/awesome-quic",
     "original_repository_id": 303029626,
     "original_repository_sha": "cf9a5e8653675e9c5bd3e38501c15938895c51a7",
