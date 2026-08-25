@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-24T22:50:20Z",
+                "last_commit": "2026-08-25T07:16:14Z",
                 "owner": "microsoft",
                 "repo": "msquic",
                 "stars": 4770
@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-24T22:50:20Z",
+                "last_commit": "2026-08-25T07:16:14Z",
                 "owner": "microsoft",
                 "repo": "msquic",
                 "stars": 4770
@@ -135,7 +135,7 @@
                 "last_commit": "2026-08-14T13:03:16Z",
                 "owner": "cloudflare",
                 "repo": "quiche",
-                "stars": 11793
+                "stars": 11792
               }
             }
           ],
@@ -156,7 +156,7 @@
                     "archived": false,
                     "id": 217654199,
                     "language": "C",
-                    "last_commit": "2026-08-24T22:50:20Z",
+                    "last_commit": "2026-08-25T07:16:14Z",
                     "owner": "microsoft",
                     "repo": "msquic",
                     "stars": 4770
@@ -219,7 +219,7 @@
                     "last_commit": "2026-08-14T13:03:16Z",
                     "owner": "cloudflare",
                     "repo": "quiche",
-                    "stars": 11793
+                    "stars": 11792
                   }
                 },
                 {
@@ -261,7 +261,7 @@
                     "archived": false,
                     "id": 93527560,
                     "language": "C",
-                    "last_commit": "2026-08-25T05:15:15Z",
+                    "last_commit": "2026-08-25T07:18:49Z",
                     "owner": "h2o",
                     "repo": "quicly",
                     "stars": 663
@@ -301,7 +301,7 @@
                     "last_commit": "2026-08-14T13:03:16Z",
                     "owner": "cloudflare",
                     "repo": "quiche",
-                    "stars": 11793
+                    "stars": 11792
                   }
                 },
                 {
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:30:40.328Z",
+    "last_updated": "2026-08-25T08:07:26.288Z",
     "original_repository": "xileteam/awesome-quic",
     "original_repository_id": 303029626,
     "original_repository_sha": "cf9a5e8653675e9c5bd3e38501c15938895c51a7",
