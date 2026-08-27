@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-26T22:03:05Z",
+                "last_commit": "2026-08-27T16:38:49Z",
                 "owner": "microsoft",
                 "repo": "msquic",
                 "stars": 4771
@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-26T22:03:05Z",
+                "last_commit": "2026-08-27T16:38:49Z",
                 "owner": "microsoft",
                 "repo": "msquic",
                 "stars": 4771
@@ -156,7 +156,7 @@
                     "archived": false,
                     "id": 217654199,
                     "language": "C",
-                    "last_commit": "2026-08-26T22:03:05Z",
+                    "last_commit": "2026-08-27T16:38:49Z",
                     "owner": "microsoft",
                     "repo": "msquic",
                     "stars": 4771
@@ -171,7 +171,7 @@
                     "archived": false,
                     "id": 128842710,
                     "language": "C++",
-                    "last_commit": "2026-08-26T16:35:40Z",
+                    "last_commit": "2026-08-27T16:34:56Z",
                     "owner": "facebook",
                     "repo": "mvfst",
                     "stars": 1658
@@ -331,7 +331,7 @@
                     "last_commit": "2026-08-27T01:38:56Z",
                     "owner": "quinn-rs",
                     "repo": "quinn",
-                    "stars": 5232
+                    "stars": 5233
                   }
                 },
                 {
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:37.616Z",
+    "last_updated": "2026-08-27T16:48:24.920Z",
     "original_repository_info": {
       "archived": false,
       "id": 303029626,
