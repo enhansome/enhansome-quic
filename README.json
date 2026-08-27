@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-25T22:37:01Z",
+                "last_commit": "2026-08-26T22:03:05Z",
                 "owner": "microsoft",
                 "repo": "msquic",
-                "stars": 4770
+                "stars": 4771
               }
             },
             {
@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-25T22:37:01Z",
+                "last_commit": "2026-08-26T22:03:05Z",
                 "owner": "microsoft",
                 "repo": "msquic",
-                "stars": 4770
+                "stars": 4771
               }
             },
             {
@@ -156,10 +156,10 @@
                     "archived": false,
                     "id": 217654199,
                     "language": "C",
-                    "last_commit": "2026-08-25T22:37:01Z",
+                    "last_commit": "2026-08-26T22:03:05Z",
                     "owner": "microsoft",
                     "repo": "msquic",
-                    "stars": 4770
+                    "stars": 4771
                   }
                 },
                 {
@@ -171,10 +171,10 @@
                     "archived": false,
                     "id": 128842710,
                     "language": "C++",
-                    "last_commit": "2026-08-25T22:12:35Z",
+                    "last_commit": "2026-08-26T16:35:40Z",
                     "owner": "facebook",
                     "repo": "mvfst",
-                    "stars": 1657
+                    "stars": 1658
                   }
                 },
                 {
@@ -231,10 +231,10 @@
                     "archived": false,
                     "id": 95480304,
                     "language": "C",
-                    "last_commit": "2026-08-25T18:27:46Z",
+                    "last_commit": "2026-08-27T05:38:53Z",
                     "owner": "private-octopus",
                     "repo": "picoquic",
-                    "stars": 766
+                    "stars": 767
                   }
                 },
                 {
@@ -313,10 +313,10 @@
                     "archived": false,
                     "id": 171342221,
                     "language": "Rust",
-                    "last_commit": "2026-08-25T12:33:08Z",
+                    "last_commit": "2026-08-27T11:43:44Z",
                     "owner": "mozilla",
                     "repo": "neqo",
-                    "stars": 2220
+                    "stars": 2222
                   }
                 },
                 {
@@ -328,7 +328,7 @@
                     "archived": false,
                     "id": 127870944,
                     "language": "Rust",
-                    "last_commit": "2026-08-23T05:20:15Z",
+                    "last_commit": "2026-08-27T01:38:56Z",
                     "owner": "quinn-rs",
                     "repo": "quinn",
                     "stars": 5232
@@ -365,10 +365,10 @@
                     "archived": false,
                     "id": 55637575,
                     "language": "Go",
-                    "last_commit": "2026-08-25T16:12:07Z",
+                    "last_commit": "2026-08-26T10:21:44Z",
                     "owner": "quic-go",
                     "repo": "quic-go",
-                    "stars": 11751
+                    "stars": 11750
                   }
                 }
               ],
@@ -405,7 +405,7 @@
                     "last_commit": "2026-08-20T12:50:12Z",
                     "owner": "colocohen",
                     "repo": "quico",
-                    "stars": 97
+                    "stars": 98
                   }
                 }
               ],
@@ -427,7 +427,7 @@
                     "last_commit": "2025-10-11T10:14:57Z",
                     "owner": "aiortc",
                     "repo": "aioquic",
-                    "stars": 2001
+                    "stars": 2002
                   }
                 }
               ],
@@ -504,9 +504,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:04:44.703Z",
-    "original_repository": "xileteam/awesome-quic",
-    "original_repository_id": 303029626,
+    "last_updated": "2026-08-27T11:57:37.616Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 303029626,
+      "language": null,
+      "last_commit": "2026-08-06T01:47:16Z",
+      "owner": "xileteam",
+      "repo": "awesome-quic",
+      "stars": 93
+    },
     "original_repository_sha": "cf9a5e8653675e9c5bd3e38501c15938895c51a7",
     "enhanced_repository": "enhansome/enhansome-quic",
     "enhanced_repository_description": null,
