@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-27T16:38:49Z",
+                "last_commit": "2026-08-28T16:51:15Z",
                 "owner": "microsoft",
                 "repo": "msquic",
                 "stars": 4771
-              }
+              },
+              "first_seen": "2026-08-28T17:42:23.446Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "rmarx",
                 "repo": "h3-protocol-stack",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T17:42:23.446Z"
             }
           ],
           "description": null,
@@ -51,11 +53,12 @@
                 "archived": false,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-27T16:38:49Z",
+                "last_commit": "2026-08-28T16:51:15Z",
                 "owner": "microsoft",
                 "repo": "msquic",
                 "stars": 4771
-              }
+              },
+              "first_seen": "2026-08-28T17:42:23.446Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "w3c",
                 "repo": "webtransport",
                 "stars": 988
-              }
+              },
+              "first_seen": "2026-08-28T17:42:23.446Z"
             }
           ],
           "description": null,
@@ -92,7 +96,8 @@
                 "owner": "netty",
                 "repo": "netty-incubator-codec-quic",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-28T17:42:23.446Z"
             }
           ],
           "description": null,
@@ -113,8 +118,9 @@
                 "last_commit": "2026-08-02T02:31:13Z",
                 "owner": "litespeedtech",
                 "repo": "lsquic",
-                "stars": 1866
-              }
+                "stars": 1867
+              },
+              "first_seen": "2026-08-28T17:42:23.446Z"
             }
           ],
           "description": null,
@@ -135,8 +141,9 @@
                 "last_commit": "2026-08-14T13:03:16Z",
                 "owner": "cloudflare",
                 "repo": "quiche",
-                "stars": 11793
-              }
+                "stars": 11795
+              },
+              "first_seen": "2026-08-28T17:42:23.446Z"
             }
           ],
           "description": null,
@@ -156,11 +163,12 @@
                     "archived": false,
                     "id": 217654199,
                     "language": "C",
-                    "last_commit": "2026-08-27T16:38:49Z",
+                    "last_commit": "2026-08-28T16:51:15Z",
                     "owner": "microsoft",
                     "repo": "msquic",
                     "stars": 4771
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 },
                 {
                   "node_type": "item",
@@ -171,11 +179,12 @@
                     "archived": false,
                     "id": 128842710,
                     "language": "C++",
-                    "last_commit": "2026-08-27T16:34:56Z",
+                    "last_commit": "2026-08-28T16:37:50Z",
                     "owner": "facebook",
                     "repo": "mvfst",
                     "stars": 1658
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 },
                 {
                   "node_type": "item",
@@ -189,8 +198,9 @@
                     "last_commit": "2026-08-02T02:31:13Z",
                     "owner": "litespeedtech",
                     "repo": "lsquic",
-                    "stars": 1866
-                  }
+                    "stars": 1867
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 },
                 {
                   "node_type": "item",
@@ -205,7 +215,8 @@
                     "owner": "ngtcp2",
                     "repo": "ngtcp2",
                     "stars": 1508
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 },
                 {
                   "node_type": "item",
@@ -219,8 +230,9 @@
                     "last_commit": "2026-08-14T13:03:16Z",
                     "owner": "cloudflare",
                     "repo": "quiche",
-                    "stars": 11793
-                  }
+                    "stars": 11795
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 },
                 {
                   "node_type": "item",
@@ -231,11 +243,12 @@
                     "archived": false,
                     "id": 95480304,
                     "language": "C",
-                    "last_commit": "2026-08-27T05:38:53Z",
+                    "last_commit": "2026-08-28T00:55:21Z",
                     "owner": "private-octopus",
                     "repo": "picoquic",
                     "stars": 767
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 },
                 {
                   "node_type": "item",
@@ -250,7 +263,8 @@
                     "owner": "p-quic",
                     "repo": "pquic",
                     "stars": 135
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 },
                 {
                   "node_type": "item",
@@ -265,7 +279,8 @@
                     "owner": "h2o",
                     "repo": "quicly",
                     "stars": 663
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 },
                 {
                   "node_type": "item",
@@ -280,7 +295,8 @@
                     "owner": "Tencent",
                     "repo": "tquic",
                     "stars": 1428
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 }
               ],
               "description": null,
@@ -301,8 +317,9 @@
                     "last_commit": "2026-08-14T13:03:16Z",
                     "owner": "cloudflare",
                     "repo": "quiche",
-                    "stars": 11793
-                  }
+                    "stars": 11795
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 },
                 {
                   "node_type": "item",
@@ -316,8 +333,9 @@
                     "last_commit": "2026-08-27T11:43:44Z",
                     "owner": "mozilla",
                     "repo": "neqo",
-                    "stars": 2222
-                  }
+                    "stars": 2223
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 },
                 {
                   "node_type": "item",
@@ -331,8 +349,9 @@
                     "last_commit": "2026-08-27T01:38:56Z",
                     "owner": "quinn-rs",
                     "repo": "quinn",
-                    "stars": 5233
-                  }
+                    "stars": 5236
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 },
                 {
                   "node_type": "item",
@@ -347,7 +366,8 @@
                     "owner": "Tencent",
                     "repo": "tquic",
                     "stars": 1428
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 }
               ],
               "description": null,
@@ -365,11 +385,12 @@
                     "archived": false,
                     "id": 55637575,
                     "language": "Go",
-                    "last_commit": "2026-08-26T10:21:44Z",
+                    "last_commit": "2026-08-28T11:25:09Z",
                     "owner": "quic-go",
                     "repo": "quic-go",
-                    "stars": 11750
-                  }
+                    "stars": 11751
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 }
               ],
               "description": null,
@@ -391,7 +412,8 @@
                     "owner": "nodejs",
                     "repo": "quic",
                     "stars": 305
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 },
                 {
                   "node_type": "item",
@@ -406,7 +428,8 @@
                     "owner": "colocohen",
                     "repo": "quico",
                     "stars": 98
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 }
               ],
               "description": null,
@@ -428,7 +451,8 @@
                     "owner": "aiortc",
                     "repo": "aioquic",
                     "stars": 2002
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 }
               ],
               "description": null,
@@ -450,7 +474,8 @@
                     "owner": "kazu-yamamoto",
                     "repo": "quic",
                     "stars": 117
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:42:23.446Z"
                 }
               ],
               "description": null,
@@ -477,7 +502,8 @@
                 "owner": "quiclog",
                 "repo": "qvis",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-28T17:42:23.446Z"
             },
             {
               "node_type": "item",
@@ -492,7 +518,8 @@
                 "owner": "quiclog",
                 "repo": "qlog",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T17:42:23.446Z"
             }
           ],
           "description": null,
@@ -504,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:48:24.920Z",
+    "last_updated": "2026-08-28T17:42:23.446Z",
     "original_repository_info": {
       "archived": false,
       "id": 303029626,
