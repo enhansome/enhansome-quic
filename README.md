@@ -169,7 +169,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 | Name                                                                                              | Version                  | Roles                   | Handshake   |
 | ------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------- | ----------- |
-| [quic-go](https://github.com/lucas-clemente/quic-go) ⭐ 11,752 \| 🐛 218 \| 🌐 Go \| 📅 2026-08-28 | always the current draft | library, client, server | TLS 1.3 RFC |
+| [quic-go](https://github.com/lucas-clemente/quic-go) ⭐ 11,754 \| 🐛 215 \| 🌐 Go \| 📅 2026-08-29 | always the current draft | library, client, server | TLS 1.3 RFC |
 
 ### Node.js
 

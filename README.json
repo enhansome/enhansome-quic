@@ -427,7 +427,7 @@
                     "id": 93527560,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T01:58:06Z",
+                    "last_commit": "2026-08-29T08:10:14Z",
                     "open_issues": 106,
                     "owner": "h2o",
                     "repo": "quicly",
@@ -603,11 +603,11 @@
                     "id": 55637575,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T11:25:09Z",
-                    "open_issues": 218,
+                    "last_commit": "2026-08-29T09:01:00Z",
+                    "open_issues": 215,
                     "owner": "quic-go",
                     "repo": "quic-go",
-                    "stars": 11752,
+                    "stars": 11754,
                     "topics": [
                       "go",
                       "golang",
@@ -807,7 +807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:58:11.875Z",
+    "last_updated": "2026-08-29T11:47:04.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of various awesome lists for QUIC related articles, presentations, and open source implementations. Update weekly.",
