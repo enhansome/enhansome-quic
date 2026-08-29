@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",
+                "homepage": null,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-28T16:51:15Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:48:41Z",
+                "open_issues": 336,
                 "owner": "microsoft",
                 "repo": "msquic",
-                "stars": 4771
+                "stars": 4771,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "cross-platform",
+                  "csharp",
+                  "network-programming",
+                  "protocol",
+                  "quic",
+                  "rust",
+                  "secure"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.446Z"
             },
@@ -28,12 +43,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diagrams visualizing the HTTP/3, HTTP/2 and HTTP/1 protocol stacks and their features",
+                "homepage": null,
                 "id": 347139189,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-03-12T17:40:26Z",
+                "open_issues": 0,
                 "owner": "rmarx",
                 "repo": "h3-protocol-stack",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.446Z"
             }
@@ -51,12 +71,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",
+                "homepage": null,
                 "id": 217654199,
                 "language": "C",
-                "last_commit": "2026-08-28T16:51:15Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:48:41Z",
+                "open_issues": 336,
                 "owner": "microsoft",
                 "repo": "msquic",
-                "stars": 4771
+                "stars": 4771,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "cross-platform",
+                  "csharp",
+                  "network-programming",
+                  "protocol",
+                  "quic",
+                  "rust",
+                  "secure"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.446Z"
             },
@@ -67,12 +102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebTransport is a web API for flexible data transport ",
+                "homepage": "https://w3c.github.io/webtransport/",
                 "id": 181791718,
                 "language": "Bikeshed",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-27T14:43:39Z",
+                "open_issues": 24,
                 "owner": "w3c",
                 "repo": "webtransport",
-                "stars": 988
+                "stars": 989,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.446Z"
             }
@@ -90,12 +130,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 310640084,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-08T12:12:29Z",
+                "open_issues": 15,
                 "owner": "netty",
                 "repo": "netty-incubator-codec-quic",
-                "stars": 346
+                "stars": 346,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.446Z"
             }
@@ -113,12 +158,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LiteSpeed QUIC and HTTP/3 Library",
+                "homepage": null,
                 "id": 104516416,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-02T02:31:13Z",
+                "open_issues": 49,
                 "owner": "litespeedtech",
                 "repo": "lsquic",
-                "stars": 1867
+                "stars": 1867,
+                "topics": [
+                  "gquic",
+                  "h3",
+                  "http3",
+                  "ietf",
+                  "protocol",
+                  "quic",
+                  "tls13",
+                  "udp"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.446Z"
             }
@@ -136,12 +195,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+                "homepage": "https://docs.quic.tech/quiche/",
                 "id": 150891532,
                 "language": "Rust",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-14T13:03:16Z",
+                "open_issues": 340,
                 "owner": "cloudflare",
                 "repo": "quiche",
-                "stars": 11795
+                "stars": 11795,
+                "topics": [
+                  "http3",
+                  "network-programming",
+                  "protocol",
+                  "quic",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.446Z"
             }
@@ -161,12 +231,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",
+                    "homepage": null,
                     "id": 217654199,
                     "language": "C",
-                    "last_commit": "2026-08-28T16:51:15Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T04:48:41Z",
+                    "open_issues": 336,
                     "owner": "microsoft",
                     "repo": "msquic",
-                    "stars": 4771
+                    "stars": 4771,
+                    "topics": [
+                      "c",
+                      "cpp",
+                      "cross-platform",
+                      "csharp",
+                      "network-programming",
+                      "protocol",
+                      "quic",
+                      "rust",
+                      "secure"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 },
@@ -177,12 +262,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An implementation of the QUIC transport protocol.",
+                    "homepage": null,
                     "id": 128842710,
                     "language": "C++",
-                    "last_commit": "2026-08-28T16:37:50Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T01:50:50Z",
+                    "open_issues": 36,
                     "owner": "facebook",
                     "repo": "mvfst",
-                    "stars": 1658
+                    "stars": 1658,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 },
@@ -193,12 +283,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LiteSpeed QUIC and HTTP/3 Library",
+                    "homepage": null,
                     "id": 104516416,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-02T02:31:13Z",
+                    "open_issues": 49,
                     "owner": "litespeedtech",
                     "repo": "lsquic",
-                    "stars": 1867
+                    "stars": 1867,
+                    "topics": [
+                      "gquic",
+                      "h3",
+                      "http3",
+                      "ietf",
+                      "protocol",
+                      "quic",
+                      "tls13",
+                      "udp"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 },
@@ -209,12 +313,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ngtcp2 project is an effort to implement IETF QUIC protocol",
+                    "homepage": "https://nghttp2.org/ngtcp2/",
                     "id": 95347622,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T12:58:02Z",
+                    "open_issues": 21,
                     "owner": "ngtcp2",
                     "repo": "ngtcp2",
-                    "stars": 1508
+                    "stars": 1509,
+                    "topics": [
+                      "c",
+                      "networking",
+                      "protocol",
+                      "quic",
+                      "rfc9000",
+                      "rfc9001",
+                      "rfc9002",
+                      "rfc9221",
+                      "rfc9287",
+                      "rfc9368",
+                      "rfc9369",
+                      "udp"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 },
@@ -225,12 +347,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+                    "homepage": "https://docs.quic.tech/quiche/",
                     "id": 150891532,
                     "language": "Rust",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-08-14T13:03:16Z",
+                    "open_issues": 340,
                     "owner": "cloudflare",
                     "repo": "quiche",
-                    "stars": 11795
+                    "stars": 11795,
+                    "topics": [
+                      "http3",
+                      "network-programming",
+                      "protocol",
+                      "quic",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 },
@@ -241,12 +374,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimal implementation of the QUIC protocol",
+                    "homepage": null,
                     "id": 95480304,
                     "language": "C",
-                    "last_commit": "2026-08-28T00:55:21Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T00:52:07Z",
+                    "open_issues": 34,
                     "owner": "private-octopus",
                     "repo": "picoquic",
-                    "stars": 767
+                    "stars": 767,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 },
@@ -257,12 +395,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The PQUIC implementation, a framework that enables QUIC clients and servers to dynamically exchange protocol plugins that extend the protocol on a per-connection basis",
+                    "homepage": "https://pquic.org",
                     "id": 193893504,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2023-10-30T14:04:34Z",
+                    "open_issues": 23,
                     "owner": "p-quic",
                     "repo": "pquic",
-                    "stars": 135
+                    "stars": 135,
+                    "topics": [
+                      "plugins",
+                      "pquic",
+                      "protocol",
+                      "quic",
+                      "transport"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 },
@@ -273,12 +422,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A modular QUIC stack designed primarily for H2O",
+                    "homepage": null,
                     "id": 93527560,
                     "language": "C",
-                    "last_commit": "2026-08-25T07:18:49Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T01:58:06Z",
+                    "open_issues": 106,
                     "owner": "h2o",
                     "repo": "quicly",
-                    "stars": 663
+                    "stars": 663,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 },
@@ -289,12 +443,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A high-performance, lightweight, and cross-platform QUIC library",
+                    "homepage": "https://tquic.net/",
                     "id": 710116025,
                     "language": "Rust",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-12-23T08:42:16Z",
+                    "open_issues": 49,
                     "owner": "Tencent",
                     "repo": "tquic",
-                    "stars": 1428
+                    "stars": 1428,
+                    "topics": [
+                      "cross-platform",
+                      "http3",
+                      "network-programming",
+                      "networking",
+                      "protocol",
+                      "quic",
+                      "rust",
+                      "udp"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 }
@@ -312,12 +480,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+                    "homepage": "https://docs.quic.tech/quiche/",
                     "id": 150891532,
                     "language": "Rust",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-08-14T13:03:16Z",
+                    "open_issues": 340,
                     "owner": "cloudflare",
                     "repo": "quiche",
-                    "stars": 11795
+                    "stars": 11795,
+                    "topics": [
+                      "http3",
+                      "network-programming",
+                      "protocol",
+                      "quic",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 },
@@ -328,12 +507,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Neqo, the Mozilla Firefox implementation of QUIC in Rust",
+                    "homepage": "https://firefox-source-docs.mozilla.org/networking/http/http3.html",
                     "id": 171342221,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T11:43:44Z",
+                    "open_issues": 163,
                     "owner": "mozilla",
                     "repo": "neqo",
-                    "stars": 2223
+                    "stars": 2223,
+                    "topics": [
+                      "firefox",
+                      "http3",
+                      "ietf",
+                      "mozilla",
+                      "quic",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 },
@@ -344,12 +535,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Async-friendly QUIC implementation in Rust",
+                    "homepage": null,
                     "id": 127870944,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T01:38:56Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T17:56:42Z",
+                    "open_issues": 197,
                     "owner": "quinn-rs",
                     "repo": "quinn",
-                    "stars": 5236
+                    "stars": 5237,
+                    "topics": [
+                      "hacktoberfest",
+                      "protocol",
+                      "quic",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 },
@@ -360,12 +561,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A high-performance, lightweight, and cross-platform QUIC library",
+                    "homepage": "https://tquic.net/",
                     "id": 710116025,
                     "language": "Rust",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-12-23T08:42:16Z",
+                    "open_issues": 49,
                     "owner": "Tencent",
                     "repo": "tquic",
-                    "stars": 1428
+                    "stars": 1428,
+                    "topics": [
+                      "cross-platform",
+                      "http3",
+                      "network-programming",
+                      "networking",
+                      "protocol",
+                      "quic",
+                      "rust",
+                      "udp"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 }
@@ -383,12 +598,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A production-ready QUIC implementation in pure Go",
+                    "homepage": "https://quic-go.net",
                     "id": 55637575,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T11:25:09Z",
+                    "open_issues": 218,
                     "owner": "quic-go",
                     "repo": "quic-go",
-                    "stars": 11751
+                    "stars": 11752,
+                    "topics": [
+                      "go",
+                      "golang",
+                      "http3",
+                      "protocol",
+                      "qlog",
+                      "quic",
+                      "quic-client",
+                      "quic-server"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 }
@@ -406,12 +635,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "This repository is no longer active.",
+                    "homepage": null,
                     "id": 166251263,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-05-18T22:59:29Z",
+                    "open_issues": 42,
                     "owner": "nodejs",
                     "repo": "quic",
-                    "stars": 305
+                    "stars": 305,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 },
@@ -422,12 +656,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pure JavaScript QUIC/HTTP3 implementation for Node.js",
+                    "homepage": "https://quicojs.dev",
                     "id": 1034205273,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-20T12:50:12Z",
+                    "open_issues": 4,
                     "owner": "colocohen",
                     "repo": "quico",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": [
+                      "h3",
+                      "http3",
+                      "javascript",
+                      "moq",
+                      "nodejs",
+                      "qpack",
+                      "quic",
+                      "quic-client",
+                      "quic-server"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 }
@@ -445,12 +694,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QUIC and HTTP/3 implementation in Python",
+                    "homepage": null,
                     "id": 169165755,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-10-11T10:14:57Z",
+                    "open_issues": 22,
                     "owner": "aiortc",
                     "repo": "aioquic",
-                    "stars": 2002
+                    "stars": 2002,
+                    "topics": [
+                      "asyncio",
+                      "http3",
+                      "network",
+                      "python",
+                      "quic",
+                      "tls"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 }
@@ -468,12 +729,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IETF QUIC library in Haskell",
+                    "homepage": null,
                     "id": 165198027,
                     "language": "Haskell",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-10T09:28:24Z",
+                    "open_issues": 9,
                     "owner": "kazu-yamamoto",
                     "repo": "quic",
-                    "stars": 117
+                    "stars": 117,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.446Z"
                 }
@@ -496,12 +762,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QUIC and HTTP/3 visualization tools",
+                "homepage": "https://qvis.edm.uhasselt.be",
                 "id": 161805646,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-17T09:33:12Z",
+                "open_issues": 57,
                 "owner": "quiclog",
                 "repo": "qvis",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.446Z"
             },
@@ -512,12 +783,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains various programming language integrations for the qlog format.",
+                "homepage": null,
                 "id": 162694667,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-05-23T06:17:49Z",
+                "open_issues": 2,
                 "owner": "quiclog",
                 "repo": "qlog",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.446Z"
             }
@@ -531,15 +807,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:42:23.446Z",
+    "last_updated": "2026-08-29T04:58:11.875Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of various awesome lists for QUIC related articles, presentations, and open source implementations. Update weekly.",
+      "homepage": null,
       "id": 303029626,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-06T01:47:16Z",
+      "open_issues": 0,
       "owner": "xileteam",
       "repo": "awesome-quic",
-      "stars": 93
+      "stars": 93,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "quic"
+      ]
     },
     "original_repository_sha": "cf9a5e8653675e9c5bd3e38501c15938895c51a7",
     "enhanced_repository": "enhansome/enhansome-quic",
