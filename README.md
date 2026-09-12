@@ -51,7 +51,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 ## QUIC Weekly - 20201202
 
-* Experimental QUIC codec for [netty](https://github.com/netty/netty-incubator-codec-quic) ⚠️ Archived makes use of [quiche](https://github.com/cloudflare/quiche) ⭐ 11,822 | 🐛 382 | 🌐 Rust | 📅 2026-09-11
+* Experimental QUIC codec for [netty](https://github.com/netty/netty-incubator-codec-quic) ⚠️ Archived makes use of [quiche](https://github.com/cloudflare/quiche) ⭐ 11,823 | 🐛 383 | 🌐 Rust | 📅 2026-09-11
 * 📽 Robin Marx [Head-of-Line Blocking in QUIC and HTTP/3: The Details](https://calendar.perfplanet.com/2020/head-of-line-blocking-in-quic-and-http-3-the-details/)
 * 📽 Hussein Nasser [The Road to QUIC - what’s wrong w/ HTTP/1.1, HTTP/2, HTTP Pipelining, CRIME, HTTP/2 HOL, HPACK](https://www.youtube.com/watch?v=jp8lvtZa1a8)
 * [GnuTLS 3.7.0 add QUIC support](https://blogs.gnome.org/dueno/whats-new-in-gnutls-3-7-0/)
@@ -104,7 +104,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 ## QUIC Weekly - 20201014
 
-* **OpenSource** [quiche](https://github.com/cloudflare/quiche/commit/75c62c1fe97578173b74f16717a7fe9f2d34d5b0) ⭐ 11,822 | 🐛 382 | 🌐 Rust | 📅 2026-09-11 landed supported for QUIC & HTTP/3 unreliable datagram into . It can help support low-latency where guaranteed delivery of data is not paramount.
+* **OpenSource** [quiche](https://github.com/cloudflare/quiche/commit/75c62c1fe97578173b74f16717a7fe9f2d34d5b0) ⭐ 11,823 | 🐛 383 | 🌐 Rust | 📅 2026-09-11 landed supported for QUIC & HTTP/3 unreliable datagram into . It can help support low-latency where guaranteed delivery of data is not paramount.
 * **Adoption** [Chrome is deploying HTTP/3 and IETF QUIC](https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html)
   * current latest Google QUIC version (Q050) has many similarities with IETF QUIC. But up until now, the majority of Chrome users didn't communicate with IETF QUIC servers without enabling some command-line options.
   * Google search latency decreases by over 2%. YouTube rebuffer time decreased by over 9%, while client throughput increased by over 3% on desktop and over 7% on mobile. We're happy to announce that Chrome is rolling out support for IETF QUIC (specifically, draft version h3-29)
@@ -147,12 +147,12 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 | Google's [Chromium](https://www.chromium.org/quic/playing-with-quic)                                                                          | Q043, Q046, Q050, T050, T051, draft-27, draft-29              | library, client, server                          | QUIC Crypto, TLS        |
 | [ats](https://cwiki.apache.org/confluence/display/TS/QUIC) (Apache Traffic Server)                                                            | draft-29                                                      | client. server                                   | TLS 1.3                 |
 | LiteSpeed's [lsquic](https://github.com/litespeedtech/lsquic) ⭐ 1,869 \| 🐛 50 \| 🌐 C \| 📅 2026-09-07                                       | Draft-32, Draft-29, Draft-28, Draft-27, Q043, Q046, and Q050. | library, client, server                          | QUIC Crypto, RFC 8446   |
-| [ngtcp2](https://github.com/ngtcp2/ngtcp2) ⭐ 1,511 \| 🐛 18 \| 🌐 C \| 📅 2026-09-10                                                          | draft-29, draft-30, draft-31, and draft-32                    | library, client, server                          | TLSv1.3 (RFC 8446)      |
-| Cloudflare's [nginx-cloudflare](https://github.com/cloudflare/quiche/tree/master/extras/nginx) ⭐ 11,822 \| 🐛 382 \| 🌐 Rust \| 📅 2026-09-11 | draft-27, draft-28, draft-29                                  | server                                           | TLSv1.3 (RFC8446)       |
-| [picoquic](https://github.com/private-octopus/picoquic) ⭐ 772 \| 🐛 32 \| 🌐 C \| 📅 2026-09-10                                               | draft-32/31/30/29/28/27                                       | library and test tools, test client, test server | TLS 1.3 (using picotls) |
+| [ngtcp2](https://github.com/ngtcp2/ngtcp2) ⭐ 1,511 \| 🐛 18 \| 🌐 C \| 📅 2026-09-12                                                          | draft-29, draft-30, draft-31, and draft-32                    | library, client, server                          | TLSv1.3 (RFC 8446)      |
+| Cloudflare's [nginx-cloudflare](https://github.com/cloudflare/quiche/tree/master/extras/nginx) ⭐ 11,823 \| 🐛 383 \| 🌐 Rust \| 📅 2026-09-11 | draft-27, draft-28, draft-29                                  | server                                           | TLSv1.3 (RFC8446)       |
+| [picoquic](https://github.com/private-octopus/picoquic) ⭐ 773 \| 🐛 34 \| 🌐 C \| 📅 2026-09-12                                               | draft-32/31/30/29/28/27                                       | library and test tools, test client, test server | TLS 1.3 (using picotls) |
 | [Pluginized QUIC](https://github.com/p-quic/pquic) ⭐ 135 \| 🐛 23 \| 🌐 C \| 📅 2023-10-30                                                    | draft-29                                                      | library, client, server                          | TLS 1.3 (using picotls) |
 | [quant](https://github.com/NTAP/quant)                                                                                                        | draft-33, draft-34, v1                                        | library, client, server                          | TLS 1.3                 |
-| Fastly's [quicly](https://github.com/h2o/quicly) ⭐ 663 \| 🐛 107 \| 🌐 C \| 📅 2026-09-10                                                     | draft-27                                                      | client, server                                   | TLS 1.3 (final)         |
+| Fastly's [quicly](https://github.com/h2o/quicly) ⭐ 663 \| 🐛 107 \| 🌐 C \| 📅 2026-09-12                                                     | draft-27                                                      | client, server                                   | TLS 1.3 (final)         |
 | [nginx-quic](https://hg.nginx.org/nginx-quic/)                                                                                                | draft-27 .. draft-32                                          | server                                           | TLSv1.3 (RFC8446)       |
 | [TQUIC](https://github.com/Tencent/tquic) ⭐ 1,434 \| 🐛 50 \| 🌐 Rust \| 📅 2025-12-23                                                        | v1                                                            | library, client, server                          | TLS 1.3                 |
 
@@ -160,16 +160,16 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 | Name                                                                                                       | Version                      | Roles                   | Handshake         |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------- | ----------------------- | ----------------- |
-| Cloudflare's [quiche](https://github.com/cloudflare/quiche) ⭐ 11,822 \| 🐛 382 \| 🌐 Rust \| 📅 2026-09-11 | draft-27, draft-28, draft-29 | library, client, server | TLSv1.3 (RFC8446) |
-| Mozilla/Firefox's [Neqo](https://github.com/mozilla/neqo) ⭐ 2,237 \| 🐛 182 \| 🌐 Rust \| 📅 2026-09-11    | draft-30                     | library, client, server | TLS 1.3           |
-| [Quinn](https://github.com/djc/quinn) ⭐ 5,254 \| 🐛 190 \| 🌐 Rust \| 📅 2026-09-10                        | draft-28                     | library, client, server | TLS 1.3           |
+| Cloudflare's [quiche](https://github.com/cloudflare/quiche) ⭐ 11,823 \| 🐛 383 \| 🌐 Rust \| 📅 2026-09-11 | draft-27, draft-28, draft-29 | library, client, server | TLSv1.3 (RFC8446) |
+| Mozilla/Firefox's [Neqo](https://github.com/mozilla/neqo) ⭐ 2,238 \| 🐛 179 \| 🌐 Rust \| 📅 2026-09-11    | draft-30                     | library, client, server | TLS 1.3           |
+| [Quinn](https://github.com/djc/quinn) ⭐ 5,257 \| 🐛 190 \| 🌐 Rust \| 📅 2026-09-10                        | draft-28                     | library, client, server | TLS 1.3           |
 | [TQUIC](https://github.com/Tencent/tquic) ⭐ 1,434 \| 🐛 50 \| 🌐 Rust \| 📅 2025-12-23                     | v1                           | library, client, server | TLS 1.3           |
 
 ### Go
 
 | Name                                                                                              | Version                  | Roles                   | Handshake   |
 | ------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------- | ----------- |
-| [quic-go](https://github.com/lucas-clemente/quic-go) ⭐ 11,766 \| 🐛 215 \| 🌐 Go \| 📅 2026-09-07 | always the current draft | library, client, server | TLS 1.3 RFC |
+| [quic-go](https://github.com/lucas-clemente/quic-go) ⭐ 11,765 \| 🐛 216 \| 🌐 Go \| 📅 2026-09-12 | always the current draft | library, client, server | TLS 1.3 RFC |
 
 ### Node.js
 
@@ -182,7 +182,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 | Name                                                                                        | Version  | Roles                   | Handshake |
 | ------------------------------------------------------------------------------------------- | -------- | ----------------------- | --------- |
-| [aioquic](https://github.com/aiortc/aioquic) ⭐ 2,003 \| 🐛 23 \| 🌐 Python \| 📅 2025-10-11 | draft-29 | library, client, server | TLS 1.3   |
+| [aioquic](https://github.com/aiortc/aioquic) ⭐ 2,003 \| 🐛 25 \| 🌐 Python \| 📅 2025-10-11 | draft-29 | library, client, server | TLS 1.3   |
 
 ### Haskell
 
@@ -203,4 +203,4 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
