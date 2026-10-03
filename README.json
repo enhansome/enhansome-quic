@@ -204,7 +204,7 @@
                 "open_issues": 372,
                 "owner": "cloudflare",
                 "repo": "quiche",
-                "stars": 12731,
+                "stars": 12732,
                 "topics": [
                   "http3",
                   "network-programming",
@@ -356,7 +356,7 @@
                     "open_issues": 372,
                     "owner": "cloudflare",
                     "repo": "quiche",
-                    "stars": 12731,
+                    "stars": 12732,
                     "topics": [
                       "http3",
                       "network-programming",
@@ -452,7 +452,7 @@
                     "open_issues": 51,
                     "owner": "Tencent",
                     "repo": "tquic",
-                    "stars": 1440,
+                    "stars": 1441,
                     "topics": [
                       "cross-platform",
                       "http3",
@@ -489,7 +489,7 @@
                     "open_issues": 372,
                     "owner": "cloudflare",
                     "repo": "quiche",
-                    "stars": 12731,
+                    "stars": 12732,
                     "topics": [
                       "http3",
                       "network-programming",
@@ -516,7 +516,7 @@
                     "open_issues": 192,
                     "owner": "mozilla",
                     "repo": "neqo",
-                    "stars": 2242,
+                    "stars": 2243,
                     "topics": [
                       "firefox",
                       "http3",
@@ -544,7 +544,7 @@
                     "open_issues": 183,
                     "owner": "quinn-rs",
                     "repo": "quinn",
-                    "stars": 5278,
+                    "stars": 5280,
                     "topics": [
                       "hacktoberfest",
                       "protocol",
@@ -570,7 +570,7 @@
                     "open_issues": 51,
                     "owner": "Tencent",
                     "repo": "tquic",
-                    "stars": 1440,
+                    "stars": 1441,
                     "topics": [
                       "cross-platform",
                       "http3",
@@ -603,8 +603,8 @@
                     "id": 55637575,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T02:16:27Z",
-                    "open_issues": 217,
+                    "last_commit": "2026-10-03T07:21:55Z",
+                    "open_issues": 214,
                     "owner": "quic-go",
                     "repo": "quic-go",
                     "stars": 11792,
@@ -735,7 +735,7 @@
                     "language": "Haskell",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-02T22:22:39Z",
-                    "open_issues": 10,
+                    "open_issues": 9,
                     "owner": "kazu-yamamoto",
                     "repo": "quic",
                     "stars": 119,
@@ -807,7 +807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:02:56.207Z",
+    "last_updated": "2026-10-03T10:36:18.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of various awesome lists for QUIC related articles, presentations, and open source implementations. Update weekly.",
