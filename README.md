@@ -186,9 +186,9 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 ### Haskell
 
-| Name                                                                                               | Version  | Roles                   | Handshake |
-| -------------------------------------------------------------------------------------------------- | -------- | ----------------------- | --------- |
-| [Haskell quic](https://github.com/kazu-yamamoto/quic) ⭐ 119 \| 🐛 9 \| 🌐 Haskell \| 📅 2026-10-06 | draft-29 | library, client, server | TLS 1.3   |
+| Name                                                                                                | Version  | Roles                   | Handshake |
+| --------------------------------------------------------------------------------------------------- | -------- | ----------------------- | --------- |
+| [Haskell quic](https://github.com/kazu-yamamoto/quic) ⭐ 119 \| 🐛 10 \| 🌐 Haskell \| 📅 2026-10-06 | draft-29 | library, client, server | TLS 1.3   |
 
 ### Java
 

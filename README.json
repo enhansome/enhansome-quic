@@ -734,8 +734,8 @@
                     "id": 165198027,
                     "language": "Haskell",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-06T05:05:31Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-10-06T11:18:38Z",
+                    "open_issues": 10,
                     "owner": "kazu-yamamoto",
                     "repo": "quic",
                     "stars": 119,
@@ -807,7 +807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:28:16.921Z",
+    "last_updated": "2026-10-06T12:13:09.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of various awesome lists for QUIC related articles, presentations, and open source implementations. Update weekly.",
