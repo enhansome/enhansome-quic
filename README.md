@@ -14,7 +14,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 ## QUIC Weekly - 20210414
 
-* Microsoft's [open-source implementation of the QUIC protocol](https://github.com/microsoft/msquic) ⭐ 4,794 | 🐛 351 | 🌐 C | 📅 2026-11-12 that will form the basis of HTTP/3 will be in Windows Server 2022. It's being used for [SMB over QUIC](https://techcommunity.microsoft.com/t5/itops-talk-blog/smb-over-quic-files-without-the-vpn/ba-p/1183449), which is a more secure replacement for WebDAV to deliver SMB access **without the expense and complexity of a VPN**. This uses QUIC as the transport for SMB **instead of TCP/IP** and RDMA, with a tunnel that secures SMB **even if encryption isn't enabled**. "SMB over QUIC will be available with Azure Automanage and Windows Server 2022," Kumar told TechRepublic. "It will also be supported as a client in Windows 10 and on third-party platforms like Android and others."
+* Microsoft's [open-source implementation of the QUIC protocol](https://github.com/microsoft/msquic) ⭐ 4,793 | 🐛 353 | 🌐 C | 📅 2026-11-12 that will form the basis of HTTP/3 will be in Windows Server 2022. It's being used for [SMB over QUIC](https://techcommunity.microsoft.com/t5/itops-talk-blog/smb-over-quic-files-without-the-vpn/ba-p/1183449), which is a more secure replacement for WebDAV to deliver SMB access **without the expense and complexity of a VPN**. This uses QUIC as the transport for SMB **instead of TCP/IP** and RDMA, with a tunnel that secures SMB **even if encryption isn't enabled**. "SMB over QUIC will be available with Azure Automanage and Windows Server 2022," Kumar told TechRepublic. "It will also be supported as a client in Windows 10 and on third-party platforms like Android and others."
 * [@Robin](http://twitter.com/programart) Draw digram and open source the source file: <https://github.com/rmarx/h3-protocol-stack> ⭐ 64 | 🐛 0 | 📅 2021-03-12
   ![](https://github.com/rmarx/h3-protocol-stack/blob/main/png/protocol-stack-h2-h3-extended.png?raw=true)
 * [@Daniel Stenberg](https://twitter.com/bagder) 's blog: WHERE IS HTTP/3 RIGHT NOW?, said the specifications are all done. They’re now waiting in queues to get their final edits and approvals before they will get assigned RFC numbers and get published as such – they will not change any further.
@@ -25,7 +25,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 ## QUIC Weekly - 20210106
 
-* Version 1.0 of the Microsoft implementation of the QUIC protocol [MSQUIC has been released](https://github.com/microsoft/msquic) ⭐ 4,794 | 🐛 351 | 🌐 C | 📅 2026-11-12
+* Version 1.0 of the Microsoft implementation of the QUIC protocol [MSQUIC has been released](https://github.com/microsoft/msquic) ⭐ 4,793 | 🐛 353 | 🌐 C | 📅 2026-11-12
 * [WebTransport Explainer](https://github.com/w3c/webtransport/blob/master/explainer.md) ⭐ 994 | 🐛 42 | 🌐 Bikeshed | 📅 2026-11-04
 * [WebTransport](https://w3c.github.io/webtransport/) This specification uses pluggable protocols, with QUIC \[QUIC-TRANSPORT] as one such protocol, to send data to and receive data from servers. It can be used like WebSockets but with support for multiple streams, unidirectional streams, out-of-order delivery, and reliable as well as unreliable transport.
 * World’s first DNS over QUIC resolver [launched by AdGuard](https://www.zdnet.com/article/ad-blocker-adguard-deploys-worlds-first-dns-over-quic-resolver/)
@@ -69,7 +69,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 ## QUIC Weekly - 20201118
 
-* [lsquic release 2.24.4](https://github.com/litespeedtech/lsquic) ⭐ 1,883 | 🐛 51 | 🌐 C | 📅 2026-11-03, contains fixes to congestion controller and to CID lifecycle.
+* [lsquic release 2.24.4](https://github.com/litespeedtech/lsquic) ⭐ 1,884 | 🐛 51 | 🌐 C | 📅 2026-11-03, contains fixes to congestion controller and to CID lifecycle.
 * 📽 Throwback to [QUIC BoF session in July 2016](https://www.youtube.com/watch?v=aGvFuvmEufs). A Working Group forming meeting to decide if QUIC should be adopted for standardisation into the IETF, based on the exissting deployment experience of Google.
 * 📽 Robin Marx [gave a keynote](https://www.youtube.com/watch?v=SuSpghHP0uI\&feature=youtu.be) at IEEE LATINCOM about his experiences doing a PhD on the QUIC and HTTP3 protocols. He talked about their basic features, open research questions and his process in contributing the qlog and qvis debugging tools.
 * [iOS 14 and macOS Big Sur include an experimental preview of HTTP/3 support](https://developer.apple.com/videos/play/wwdc2020/10111/?time=701) for your apps that use URLSession, which you can enable in developer settings. To enable HTTP/3 macOS Big Sur: `defaults write -g CFNetworkHTTP3Override -int 3`.
@@ -142,34 +142,34 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 | Name                                                                                                                                          | Version                                                       | Roles                                            | Handshake               |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------ | ----------------------- |
-| Microsoft's [MsQuic](https://github.com/microsoft/msquic) ⭐ 4,794 \| 🐛 351 \| 🌐 C \| 📅 2026-11-12                                          | draft-27/28/29/30/31/32                                       | client, server                                   | TLS 1.3 RFC             |
-| Facebook's [mvfst](https://github.com/facebookincubator/mvfst) ⭐ 1,672 \| 🐛 43 \| 🌐 C++ \| 📅 2026-11-13                                    | draft-29                                                      | library, client, server                          | TLS 1.3                 |
+| Microsoft's [MsQuic](https://github.com/microsoft/msquic) ⭐ 4,793 \| 🐛 353 \| 🌐 C \| 📅 2026-11-12                                          | draft-27/28/29/30/31/32                                       | client, server                                   | TLS 1.3 RFC             |
+| Facebook's [mvfst](https://github.com/facebookincubator/mvfst) ⭐ 1,672 \| 🐛 45 \| 🌐 C++ \| 📅 2026-11-14                                    | draft-29                                                      | library, client, server                          | TLS 1.3                 |
 | Google's [Chromium](https://www.chromium.org/quic/playing-with-quic)                                                                          | Q043, Q046, Q050, T050, T051, draft-27, draft-29              | library, client, server                          | QUIC Crypto, TLS        |
 | [ats](https://cwiki.apache.org/confluence/display/TS/QUIC) (Apache Traffic Server)                                                            | draft-29                                                      | client. server                                   | TLS 1.3                 |
-| LiteSpeed's [lsquic](https://github.com/litespeedtech/lsquic) ⭐ 1,883 \| 🐛 51 \| 🌐 C \| 📅 2026-11-03                                       | Draft-32, Draft-29, Draft-28, Draft-27, Q043, Q046, and Q050. | library, client, server                          | QUIC Crypto, RFC 8446   |
-| [ngtcp2](https://github.com/ngtcp2/ngtcp2) ⭐ 1,540 \| 🐛 23 \| 🌐 C \| 📅 2026-11-12                                                          | draft-29, draft-30, draft-31, and draft-32                    | library, client, server                          | TLSv1.3 (RFC 8446)      |
+| LiteSpeed's [lsquic](https://github.com/litespeedtech/lsquic) ⭐ 1,884 \| 🐛 51 \| 🌐 C \| 📅 2026-11-03                                       | Draft-32, Draft-29, Draft-28, Draft-27, Q043, Q046, and Q050. | library, client, server                          | QUIC Crypto, RFC 8446   |
+| [ngtcp2](https://github.com/ngtcp2/ngtcp2) ⭐ 1,540 \| 🐛 24 \| 🌐 C \| 📅 2026-11-12                                                          | draft-29, draft-30, draft-31, and draft-32                    | library, client, server                          | TLSv1.3 (RFC 8446)      |
 | Cloudflare's [nginx-cloudflare](https://github.com/cloudflare/quiche/tree/master/extras/nginx) ⭐ 12,864 \| 🐛 401 \| 🌐 Rust \| 📅 2026-11-13 | draft-27, draft-28, draft-29                                  | server                                           | TLSv1.3 (RFC8446)       |
-| [picoquic](https://github.com/private-octopus/picoquic) ⭐ 785 \| 🐛 42 \| 🌐 C \| 📅 2026-11-13                                               | draft-32/31/30/29/28/27                                       | library and test tools, test client, test server | TLS 1.3 (using picotls) |
+| [picoquic](https://github.com/private-octopus/picoquic) ⭐ 785 \| 🐛 39 \| 🌐 C \| 📅 2026-11-14                                               | draft-32/31/30/29/28/27                                       | library and test tools, test client, test server | TLS 1.3 (using picotls) |
 | [Pluginized QUIC](https://github.com/p-quic/pquic) ⭐ 136 \| 🐛 26 \| 🌐 C \| 📅 2023-10-30                                                    | draft-29                                                      | library, client, server                          | TLS 1.3 (using picotls) |
 | [quant](https://github.com/NTAP/quant)                                                                                                        | draft-33, draft-34, v1                                        | library, client, server                          | TLS 1.3                 |
-| Fastly's [quicly](https://github.com/h2o/quicly) ⭐ 664 \| 🐛 108 \| 🌐 C \| 📅 2026-11-13                                                     | draft-27                                                      | client, server                                   | TLS 1.3 (final)         |
+| Fastly's [quicly](https://github.com/h2o/quicly) ⭐ 664 \| 🐛 107 \| 🌐 C \| 📅 2026-11-13                                                     | draft-27                                                      | client, server                                   | TLS 1.3 (final)         |
 | [nginx-quic](https://hg.nginx.org/nginx-quic/)                                                                                                | draft-27 .. draft-32                                          | server                                           | TLSv1.3 (RFC8446)       |
-| [TQUIC](https://github.com/Tencent/tquic) ⭐ 1,442 \| 🐛 56 \| 🌐 Rust \| 📅 2026-10-08                                                        | v1                                                            | library, client, server                          | TLS 1.3                 |
+| [TQUIC](https://github.com/Tencent/tquic) ⭐ 1,443 \| 🐛 56 \| 🌐 Rust \| 📅 2026-10-08                                                        | v1                                                            | library, client, server                          | TLS 1.3                 |
 
 ### Rust
 
 | Name                                                                                                       | Version                      | Roles                   | Handshake         |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------- | ----------------------- | ----------------- |
 | Cloudflare's [quiche](https://github.com/cloudflare/quiche) ⭐ 12,864 \| 🐛 401 \| 🌐 Rust \| 📅 2026-11-13 | draft-27, draft-28, draft-29 | library, client, server | TLSv1.3 (RFC8446) |
-| Mozilla/Firefox's [Neqo](https://github.com/mozilla/neqo) ⭐ 2,255 \| 🐛 287 \| 🌐 Rust \| 📅 2026-11-13    | draft-30                     | library, client, server | TLS 1.3           |
-| [Quinn](https://github.com/djc/quinn) ⭐ 5,348 \| 🐛 208 \| 🌐 Rust \| 📅 2026-11-12                        | draft-28                     | library, client, server | TLS 1.3           |
-| [TQUIC](https://github.com/Tencent/tquic) ⭐ 1,442 \| 🐛 56 \| 🌐 Rust \| 📅 2026-10-08                     | v1                           | library, client, server | TLS 1.3           |
+| Mozilla/Firefox's [Neqo](https://github.com/mozilla/neqo) ⭐ 2,255 \| 🐛 281 \| 🌐 Rust \| 📅 2026-11-13    | draft-30                     | library, client, server | TLS 1.3           |
+| [Quinn](https://github.com/djc/quinn) ⭐ 5,349 \| 🐛 209 \| 🌐 Rust \| 📅 2026-11-12                        | draft-28                     | library, client, server | TLS 1.3           |
+| [TQUIC](https://github.com/Tencent/tquic) ⭐ 1,443 \| 🐛 56 \| 🌐 Rust \| 📅 2026-10-08                     | v1                           | library, client, server | TLS 1.3           |
 
 ### Go
 
 | Name                                                                                              | Version                  | Roles                   | Handshake   |
 | ------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------- | ----------- |
-| [quic-go](https://github.com/lucas-clemente/quic-go) ⭐ 11,838 \| 🐛 209 \| 🌐 Go \| 📅 2026-11-12 | always the current draft | library, client, server | TLS 1.3 RFC |
+| [quic-go](https://github.com/lucas-clemente/quic-go) ⭐ 11,838 \| 🐛 208 \| 🌐 Go \| 📅 2026-11-14 | always the current draft | library, client, server | TLS 1.3 RFC |
 
 ### Node.js
 
@@ -188,7 +188,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 | Name                                                                                               | Version  | Roles                   | Handshake |
 | -------------------------------------------------------------------------------------------------- | -------- | ----------------------- | --------- |
-| [Haskell quic](https://github.com/kazu-yamamoto/quic) ⭐ 119 \| 🐛 5 \| 🌐 Haskell \| 📅 2026-11-13 | draft-29 | library, client, server | TLS 1.3   |
+| [Haskell quic](https://github.com/kazu-yamamoto/quic) ⭐ 119 \| 🐛 5 \| 🌐 Haskell \| 📅 2026-11-14 | draft-29 | library, client, server | TLS 1.3   |
 
 ### Java
 
@@ -203,4 +203,4 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
